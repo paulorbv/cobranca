@@ -1,0 +1,4 @@
+*.class
+/cobranca/target/*
+/cobranca/.settings/*
+/cobranca/.project
